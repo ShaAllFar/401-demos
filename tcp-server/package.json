@@ -1,0 +1,17 @@
+{
+  "name": "tcp-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node": "0.0.0",
+    "node-uuid": "^1.4.7",
+    "uuid": "^3.0.1"
+  }
+}
